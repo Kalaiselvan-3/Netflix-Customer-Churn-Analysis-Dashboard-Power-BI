@@ -1,0 +1,2 @@
+# Netflix-Customer-Churn-Analysis-Dashboard-Power-BI
+Developed an interactive Netflix Customer Churn Analysis Dashboard using Microsoft Power BI to identify, analyze, and visualize factors influencing customer churn. The dashboard provides actionable insights into subscription behavior, viewing patterns, tenure, and payment plans, enabling stakeholders to understand why customers leave the platform.
